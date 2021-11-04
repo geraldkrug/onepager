@@ -1885,33 +1885,10 @@ on the customers computer. To see it they can export cookies.txt and search for;
 
 [TOP](#top)
 
-Copyright ©<script>document.write(new Date().getFullYear());</script> All rights reserved
+Copyright © 2021 All rights reserved
 
 </center>
 
-<a id="bottom"></a><script type="text/javascript"><!-- function SiteStats_1449(){ var t=new Date(); var u='http://boughtupcom.scriptmania.com/cgi-bin/sitestats.gif?p='+escape(location.href)+';r='+escape(document.referrer)+';t='+t.getTime(); var I=new Image(1,1); I.src=u; } SiteStats_1449(); //--></script>
-
-<noscript>![sitestats](http://boughtupcom.scriptmania.com/cgi-bin/sitestats.gif?p=http%3A%2F%2Fboughtupcom.scriptmania.com%2Findex100.html;r=-;t=1449;)</noscript>
-
-<script type="text/javascript"><!-- function SiteStats_4835(){ var t=new Date(); var u='http://boughtupcom.scriptmania.com/cgi-bin/sitestats.gif?p='+escape(location.href)+';r='+escape(document.referrer)+';t='+t.getTime(); var I=new Image(1,1); I.src=u; } SiteStats_4835(); //--></script>
-
-<noscript>![sitestats](http://boughtupcom.scriptmania.com/cgi-bin/sitestats.gif?p=http%3A%2F%2Fboughtupcom.scriptmania.com%2Findex100.html;r=-;t=4835;)</noscript>
-
-<script type="text/javascript"><!-- function SiteStats_2789(){ var t=new Date(); var u='http://boughtupcom.scriptmania.com/cgi-bin/sitestats.gif?p='+escape(location.href)+';r='+escape(document.referrer)+';t='+t.getTime(); document.writeln('<img src="+u+" width=1 height=1>'); } SiteStats_2789(); //--></script>
-
-<noscript>![sitestats](http://boughtupcom.scriptmania.com/cgi-bin/sitestats.gif?p=http%3A%2F%2Fboughtupcom.scriptmania.com%2Findex100.html;r=-;t=2789;)</noscript>
-
-</center>
-
-</center>
-
-</center>
-
-</center>
-<a id="top"></a>
-
-<div style="text-align: center;"><script type="text/javascript">// PLAYER VARIABLES var mp3snd = "your-sound.mp3"; var bkcolor = "000000"; if ( navigator.userAgent.toLowerCase().indexOf( "msie" ) != -1 ) { document.write('<bgsound src="'+mp3snd+'" loop="6">'); } else if ( navigator.userAgent.toLowerCase().indexOf( "firefox" ) != -1 ) { document.write('<object data="'+mp3snd+'" type="application/x-mplayer2" width="0" height="0">'); document.write('<param name="filename" value="'+mp3snd+'">'); document.write('<param name="autostart" value="1">'); document.write('</object>'); } else { document.write('<audio src="'+mp3snd+'" autoplay="autoplay">'); document.write('<object data="'+mp3snd+'" type="application/x-mplayer2" width="0" height="0">'); document.write('<param name="filename" value="'+mp3snd+'">'); document.write('<param name="autostart" value="1">'); document.write('<embed height="2" width="2" src="'+mp3snd+'" pluginspage="http://www.apple.com/quicktime/download/" type="video/quicktime" controller="false" controls="false" autoplay="true" autostart="true" loop="true" bgcolor="#'+bkcolor+'"><br>'); document.write('</embed></object>'); document.write('</audio>'); }</script>  
-</div>
 
 <audio src="echonote2.mp3" autoplay="" loop=""></audio>
 
@@ -3796,28 +3773,8 @@ on the customers computer. To see it they can export cookies.txt and search for;
 
 [TOP](#top)
 
-Copyright ©<script>document.write(new Date().getFullYear());</script> All rights reserved
+Copyright © 2021 All rights reserved
 
 </center>
 
-<a id="bottom"></a><script type="text/javascript"><!-- function SiteStats_1449(){ var t=new Date(); var u='http://boughtupcom.scriptmania.com/cgi-bin/sitestats.gif?p='+escape(location.href)+';r='+escape(document.referrer)+';t='+t.getTime(); var I=new Image(1,1); I.src=u; } SiteStats_1449(); //--></script>
-
-<noscript>![sitestats](http://boughtupcom.scriptmania.com/cgi-bin/sitestats.gif?p=http%3A%2F%2Fboughtupcom.scriptmania.com%2Findex100.html;r=-;t=1449;)</noscript>
-
-<script type="text/javascript"><!-- function SiteStats_4835(){ var t=new Date(); var u='http://boughtupcom.scriptmania.com/cgi-bin/sitestats.gif?p='+escape(location.href)+';r='+escape(document.referrer)+';t='+t.getTime(); var I=new Image(1,1); I.src=u; } SiteStats_4835(); //--></script>
-
-<noscript>![sitestats](http://boughtupcom.scriptmania.com/cgi-bin/sitestats.gif?p=http%3A%2F%2Fboughtupcom.scriptmania.com%2Findex100.html;r=-;t=4835;)</noscript>
-
-<script type="text/javascript"><!-- function SiteStats_2789(){ var t=new Date(); var u='http://boughtupcom.scriptmania.com/cgi-bin/sitestats.gif?p='+escape(location.href)+';r='+escape(document.referrer)+';t='+t.getTime(); document.writeln('<img src="+u+" width=1 height=1>'); } SiteStats_2789(); //--></script>
-
-<noscript>![sitestats](http://boughtupcom.scriptmania.com/cgi-bin/sitestats.gif?p=http%3A%2F%2Fboughtupcom.scriptmania.com%2Findex100.html;r=-;t=2789;)</noscript>
-
-</center>
-
-</center>
-
-</center>
-
-</center>
-
-
+<a id="bottom"></a>
