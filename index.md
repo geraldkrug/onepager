@@ -22,7 +22,7 @@
 
 <div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
 
-<fieldset style="border: 1px solid rgb(175, 175, 175); display: inline;"><legend>[Site Search](http://www.jrank.org/)</legend> ![Site Search](http://www.jrank.org/images/jrank_88_31-fs8.png) ["Site Search"](http://www.jrank.org/) <input id="key" name="key" type="hidden" value="88cf49fd6d172597aeb3a2b6f2a30ea0333f7808"> <input name="ie_utf8_fix" type="hidden" value="☠"> <input id="q" name="q" style="display: inline; vertical-align: middle;" type="text" value=""> <input name="commit" style="display: inline; vertical-align: middle;" type="submit" value="Search"></fieldset>
+<fieldset style="border: 1px solid rgb(175, 175, 175); display: inline;"><legend>[Site Search](http://www.jrank.org/)</legend> ![](http://www.jrank.org/images/jrank_88_31-fs8.png) ["Site Search"](http://www.jrank.org/) <input id="key" name="key" type="hidden" value="88cf49fd6d172597aeb3a2b6f2a30ea0333f7808"> <input name="ie_utf8_fix" type="hidden" value="☠"> <input id="q" name="q" style="display: inline; vertical-align: middle;" type="text" value=""> <input name="commit" style="display: inline; vertical-align: middle;" type="submit" value="Search"></fieldset>
 
 </form>
 
